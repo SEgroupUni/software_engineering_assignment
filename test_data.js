@@ -111,7 +111,7 @@ const testDatasetFuzzy = [
     { text: 'wat is your name', expectedIntent: 'name' },
     { text: 'what u called', expectedIntent: 'name' },
     { text: 'do u have name', expectedIntent: 'name' },
-    { text: 'may i ask nsme', expectedIntent: 'name' },
+    { text: 'may i ask nome', expectedIntent: 'name' },
     { text: 'tell me ur name', expectedIntent: 'name' },
     { text: 'what shud i call u', expectedIntent: 'name' },
     { text: 'how should i adress u', expectedIntent: 'name' },

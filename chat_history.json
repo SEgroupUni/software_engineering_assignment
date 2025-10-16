@@ -1,0 +1,10 @@
+{
+    "id" : null,
+    "user" :{
+        "name" : null,
+        "age"  : null,
+        "pronouns" : null
+    },
+    
+    "chatLog" :[]
+}
